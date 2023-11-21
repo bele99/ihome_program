@@ -6,4 +6,4 @@ from flask import Blueprint
 api = Blueprint("api_1_0", __name__)
 
 # load the view of blueprint
-from . import demo
+from . import index

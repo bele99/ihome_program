@@ -1,12 +1,13 @@
 # coding:utf-8
 
+import redis
 
 class Config(object):
     """Configuration information"""
     SECRET_KEY = "XHSOI*Y9dfs9cshd9"
 
     # Database
-    SQLALCHEMY_DATABASE_URI = "mysql://root:mysql@127.0.0.1:3306/ihome_python04"
+    SQLALCHEMY_DATABASE_URI = "mysql://root:mysql@127.0.0.1:3306/ihome_program"
     SQLALCHEMY_TRACK_MODIFICATIONS = True
 
     # redis
@@ -22,7 +23,7 @@ class Config(object):
 
 class DevelopmentConfig(Config):
     ''' Development model configuration information'''
-    DEBUT = True
+    DEBUG = True
     pass
 
 class ProductionConfig(Config):
