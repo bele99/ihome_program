@@ -161,3 +161,245 @@ INFO _internal.py:87 127.0.0.1 - - [21/Nov/2023 13:40:14] "GET /static/plugins/b
 INFO _internal.py:87 127.0.0.1 - - [21/Nov/2023 13:40:14] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
 INFO _internal.py:87 127.0.0.1 - - [21/Nov/2023 13:44:17] "GET /index.html HTTP/1.1" 304 -
 INFO _internal.py:87 127.0.0.1 - - [21/Nov/2023 13:44:17] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [21/Nov/2023 20:36:13] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [21/Nov/2023 20:36:13] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [21/Nov/2023 20:36:23] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [21/Nov/2023 20:36:23] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [21/Nov/2023 20:36:23] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [21/Nov/2023 20:36:23] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/api_1_0/__init__.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /index.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/css/reset.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/css/ihome/main.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/css/ihome/index.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/images/logo@128x59.png HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/images/home01.jpg HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/images/home02.jpg HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/images/home03.jpg HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/js/jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/js/template.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/js/ihome/index.js HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:41] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:50] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:50] "GET /static/css/ihome/register.css HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:50] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:50] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:50] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:50] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:07:50] "GET /api/v1.0/image_codes/7c7943ca-acfb-4cbc-b1ea-451629a5b42e HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:09:04] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:09:04] "GET /api/v1.0/image_codes/19dc6378-74e3-4e35-8dd7-418f78a87fd0 HTTP/1.1" 500 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:11:08] "GET /api/v1.0/image_codes/4351cf96-1615-4543-8cbe-f1110a41aa76 HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/__init__.py', reloading
+INFO _internal.py:87  * Restarting with stat
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:15:16] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:15:16] "GET /api/v1.0/image_codes/897486c9-6891-47b2-951e-969251cb615d HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:16:24] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:16:24] "GET /api/v1.0/image_codes/deeec162-cfb8-4535-8655-13cb72cc0d07 HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:19:09] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:19:09] "GET /api/v1.0/image_codes/0e1b1dcd-d73f-4a72-ba7d-8cdff33ea14a HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:20:34] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:20:34] "GET /api/v1.0/image_codes/c52fbfe2-7907-40ab-a131-e9b9d5562cde HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:26:56] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:26:56] "GET /api/v1.0/image_codes/a7bb7ed1-c128-4fad-8f65-ce0e906bde1e HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:27:47] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:27:47] "GET /api/v1.0/image_codes/5f9a2420-90fc-41ed-829e-20821a142dd1 HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:28:55] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:28:55] "GET /api/v1.0/image_codes/f9ba972e-60f0-499d-9e42-748f759bc8f7 HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:32:00] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:32:00] "GET /api/v1.0/image_codes/e7c080d9-e42c-4e3c-afdb-2390d76b61be HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:33:46] "GET /api/v1.0/image_codes/99a3a7b4-7566-4814-9d8c-6b5846f37a78 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:36:09] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:36:09] "GET /api/v1.0/image_codes/47111eab-505a-42b0-a4c3-df162561dcd9 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:37:42] "GET /api/v1.0/image_codes/6f06f237-2307-42d2-bfaf-d943084c1db0 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:38:03] "GET /api/v1.0/image_codes/df0f55ec-8b31-41a0-b988-97c6d296af2d HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:38:04] "GET /api/v1.0/image_codes/9942c203-509f-4f41-9f3a-3ac0ef35027f HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:38:11] "GET /api/v1.0/image_codes/8de597c7-2266-4de5-8de5-572f4659c927 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:38:35] "GET /api/v1.0/image_codes/1db2beb4-261c-49c5-9172-2f15c14c46e3 HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:44:06] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:44:06] "GET /api/v1.0/image_codes/4afe8819-59a0-4054-847a-41b060c89f15 HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:44:23] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:44:23] "GET /api/v1.0/image_codes/6318b127-6855-425b-8e0b-d014c84bc2cf HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:44:23] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:44:23] "GET /api/v1.0/image_codes/a9feca06-8947-4721-87be-b91e3594ab64 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:44:24] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:44:24] "GET /api/v1.0/image_codes/b4837f84-6c3e-41e3-8940-66e98273fd8d HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:44:31] "GET /api/v1.0/image_codes/66ef1205-01a9-4592-bb82-aa7bbc466039 HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:47:47] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:47:48] "GET /api/v1.0/image_codes/eb42ccb9-061a-4bed-b85e-48d34655cb93 HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:48:34] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:48:35] "GET /api/v1.0/image_codes/d48d4e18-d153-4b11-99ee-409b4161801b HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:55:55] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:55:56] "GET /api/v1.0/image_codes/ee7c073f-ec12-4f2c-99a6-a2b35558f863 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 10:55:59] "GET /api/v1.0/image_codes/72f8c8d1-b615-4a3a-acde-cf01ef1df0ba HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:02:08] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:02:08] "GET /api/v1.0/image_codes/328ae1ad-ed86-4622-9f72-60201c352858 HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:02:26] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:02:26] "GET /api/v1.0/image_codes/bd41a4b1-dece-491f-a751-67a5202d4f82 HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:03:10] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:03:10] "GET /api/v1.0/image_codes/f083c862-5ba8-48fe-a80d-893fcaf16600 HTTP/1.1" 500 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:05:25] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:05:25] "GET /api/v1.0/image_codes/112e07d4-fa46-4d62-ad6c-3724daf33635 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:06:48] "GET /api/v1.0/image_codes/49ce7e8c-a8a5-49ef-bac4-547b688a6ea7 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:06:51] "GET /api/v1.0/image_codes/f2c6577e-7b4f-43f9-aaf6-31048da927db HTTP/1.1" 200 -
+INFO _internal.py:87  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:31:27] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:31:27] "GET /api/v1.0/image_codes/de66213d-63c2-4685-bbd1-c991c231ed22 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:31:31] "GET /api/v1.0/image_codes/4e3a2cd7-f335-4798-95fa-618c5d7a975c HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:31:42] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:31:43] "GET /api/v1.0/image_codes/922f3749-44ad-4885-8dd4-aa838d2cc64e HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:32:02] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:32:02] "GET /api/v1.0/image_codes/9c57a3f9-9503-4da3-83fb-0f63699a4298 HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:34:45] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:34:46] "GET /api/v1.0/image_codes/6962ba7b-fb75-4bd1-a29b-01a388586ad3 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:34:57] "GET /api/v1.0/image_codes/818843ee-fd4b-44bb-aa9d-c7269c5aa37e HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:35:04] "GET /api/v1.0/image_codes/f5132835-1dae-42a3-b9ef-c5eb60af9b29 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:35:45] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:35:45] "GET /api/v1.0/image_codes/a0d32b22-2a98-4129-b477-60cb6e5e101a HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:36:32] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:36:32] "GET /api/v1.0/image_codes/21bb3a11-f94c-4cd7-8fc7-946270815e77 HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:15] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:15] "GET /api/v1.0/image_codes/bc1f067c-c3d6-4f0e-8a5c-f78f26e91234 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:26] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:30] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:30] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:30] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:30] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:30] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:30] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:30] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:30] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:30] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:30] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:30] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:87 127.0.0.1 - - [24/Nov/2023 11:38:30] "GET /api/v1.0/image_codes/31312036-1184-4b57-b03d-07e478295127 HTTP/1.1" 200 -
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/commons.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/utils/commons.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907
+INFO _internal.py:87  * Detected change in '/Users/sed/Code/ForRent/ihome_program/ihome/models.py', reloading
+INFO _internal.py:87  * Restarting with stat
+WARNING _internal.py:87  * Debugger is active!
+INFO _internal.py:87  * Debugger PIN: 309-336-907

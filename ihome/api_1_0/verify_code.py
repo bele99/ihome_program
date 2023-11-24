@@ -16,8 +16,8 @@ def get_image_code(image_code_id):
 
     # Processing the business logic for the image of code
     # generate the image of code
-    name, text, image_data = captcha.generate_captch()
-    
+    name, text, image_data = captcha.generate_captcha()
+
     # Save the actual value and number of the verification code in Redis and set the validity period.
     # redis：  text   list   hash   set
     # "key": xxx
