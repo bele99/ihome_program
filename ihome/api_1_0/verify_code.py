@@ -1,9 +1,11 @@
-
 from . import api
 from ihome.utils.captcha.captcha import captcha
-from ihome import redis_store, constants
-from flask import current_app, jsonify, make_response
+from ihome import redis_store, constants, db
+from flask import current_app, jsonify, make_response, request
 from ihome.utils.response_code import RET
+from ihome.models import User
+from ihome.libs import test_sms
+import random
 
 # GET 127.0.0.1/api/v1.0/image_codes/<image_code_id>
 @api.route("/image_codes/<image_code_id>")
@@ -43,4 +45,11 @@ def get_image_code(image_code_id):
     return resp
 
 
+# GET /api/v1.0/sms_codes/<mobile>?image_code=xxxx&image_code_id=xxxx
+@api.route("/sms_codes/<re(r'1[34578]\d{9}'):mobile>")
+def get_sms_code(mobile):
+    """Get sms code"""
+    # Get parm
+    image_code = request.args.get("image_code")
+    image_code_id = request.args.get("image_code_id")
 
